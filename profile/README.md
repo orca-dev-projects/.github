@@ -1,6 +1,6 @@
 # Orca Organization
 
-Welcome to the Orca Organization on GitHub! This organization is dedicated to [describe the purpose or focus of the organization].
+Welcome to the Orca Organization on GitHub! This organization is dedicated to [Software development ].
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the Orca Organization on GitHub! This organization is dedicated to [d
 
 ## About
 
-[Provide a brief introduction to the Orca organization. Describe its mission, goals, or any important information.]
+[orcatech is leading software development tech company providing comprehensive solutions for website and mobile app development. With a team of skilled professionals, we create cutting-edge digital experiences tailored to our client requirements. Trust us to deliver high-quality, innovative solutions that drive business growth and excel expectations.]
 
 ## Projects
 
@@ -44,9 +44,9 @@ We appreciate your contributions and thank you in advance for your support!
 
 If you have any questions, suggestions, or would like to get in touch with us, you can reach us at:
 
-- Email: [your-email@example.com]
-- Website: [your-website-url]
-- Twitter: [@YourTwitterHandle]
+- Email: [orcatech.ot@gmail.com]
+- Website: [https://orcatech.in]
+- Twitter: [@OrcatechS]
 
 We value your feedback and look forward to hearing from you!
 
